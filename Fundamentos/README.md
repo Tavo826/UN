@@ -1,5 +1,5 @@
-##SOLUCIÓN DEL TRIQUI
-###FUNDAMENTOS DE COMPUTACÓN
+## SOLUCIÓN DEL TRIQUI
+### FUNDAMENTOS DE COMPUTACÓN
 
 Para el problema planteado sobre crear un programa en el cual dos personas puedan jugar al TRIQUI, en donde gana la persona que llene de un mismo valor cualquier fila, columna, la diagonal principal o la diagonal invertida, para lograrlo, se utilizaron ciclos, procedimientos, parámetros y todo lo demás aprendido en clase que conforma un programa, iniciando las librerías necesarias para que funcione de la manera adecuada.
 Específicamente para este juego lo primero que se debe hacer es crear una matriz de tamaño 3x3 con un ciclo para las filas y para las columnas que vaya desde 0 hasta 2 e inicializarla en un valor igual para todas las casillas, como la intención es jugar con los números cero (0) para el jugador 1 y uno (1) para el jugador 2, a través de condicionales nos aseguramos de que el valor con el que se inicializa la matriz sea diferente a dichos números, en este caso, la matriz se inicializó con el número ocho (8) utilizando un ciclo para las filas, otro para las columnas y asignando el número 8 a cada casilla.
