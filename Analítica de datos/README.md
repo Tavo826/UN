@@ -23,3 +23,9 @@ Clasificación main_people políticos con función Bayes
 
 ## Entrega 3
 Deep Learnig main_people políticos, red densa y red convolucional
+
+## Entrega 4 
+Deep Learnig fashion M-Nist, red densa y red convolucional
+
+## Entrega 5 (Analítica de datos)
+Análisis completo base de datos covid-19
